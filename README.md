@@ -1,6 +1,6 @@
 ### Howdy!
 
-I'm Agnish, and I do some code in my free time.
+I'm Agnish, and I do some code to attain moksha.
 
 **Currently learning-**
 >- Python
