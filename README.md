@@ -5,6 +5,7 @@ I'm Agnish, and I do some code to attain moksha.
 **Currently learning-**
 >- Python
 >- Java
+>- C++
 >- HTML/CSS/Javascript
 
 and also interested in robotics.
