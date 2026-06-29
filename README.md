@@ -1,6 +1,6 @@
 ### Hello there.
 
-I'm Agnish, and I do some code to attain moksha.
+I'm Agnish, and I code to attain moksha.
 
 **Currently learning-**
 >- Python
